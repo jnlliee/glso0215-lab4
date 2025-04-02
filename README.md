@@ -10,7 +10,6 @@ Hi, my name is Askarova Zhanylmyrza. I am a senior student studying Computer Sci
 
 1. Birth date 2003.03.09
 2. Nationality: Kyrgyz
-3. Sex: Female
 
 What kind of person am I?
 --
